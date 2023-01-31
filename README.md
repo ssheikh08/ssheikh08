@@ -5,7 +5,7 @@
 <li>✈️ I’m currently working as a Software Developer Co-op (Intern).</li>
 <li>🔍 I’m looking for full-time opportunities in Software Engineering positions starting December 2021</li>
 <li>🥅 2021 Goals: Contribute more to Open Source projects</li>
-<li>📧</g-emoji> How to reach me: <a href="mailto:ssheikh@syr.edu">ssheikh@syr.edu</a>.</li>
+<li>📧</g-emoji> How to reach me: <a href="mailto:sheikhso28@gmail.com">sheiksho28@gmail.com</a>.</li>
 </ul>
 <!---
 ssheikh08/ssheikh08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
